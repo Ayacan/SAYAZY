@@ -1,10 +1,10 @@
 const fs = require('fs')
 
-global.packName = 'ZyyXtrime'
+global.packName = 'LiliHengker'
 global.authorName = 'REALZI BOT'
 global.prefix = '#'
 global.mode = 'publik'
-global.ownerNumber = ['6289503657396']
+global.ownerNumber = ['6283814260711']
 global.thumb = fs.readFileSync('./thumb.jpeg')
 
 global.APIs = {
